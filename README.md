@@ -1,1 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=console.log('Hello+World!'))](https://git.io/typing-svg)
+<h1 align="center">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);console.log('Hello World!')!&center=true&size=27">
+</h1>
